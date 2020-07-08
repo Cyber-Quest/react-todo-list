@@ -9,7 +9,7 @@ function App() {
     <div>
       <div class="container">
         <div class="row">
-          <TodoInput></TodoInput>
+          <TodoInput>Vs test</TodoInput>
           <TodoList></TodoList>
         </div>
       </div>
